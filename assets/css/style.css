@@ -1,0 +1,9 @@
+* {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+table {
+    overflow-y: scroll;
+    height: 100px;
+    display: block;
+}
